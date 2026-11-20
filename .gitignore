@@ -1,0 +1,17 @@
+
+# Extra safety (autosave setup 2026-11-20): never commit keys, secrets or build outputs.
+node_modules/
+*.jks
+*.keystore
+key.properties
+keystore.properties
+local.properties
+.env
+.env.*
+!.env.example
+*.aab
+*.apk
+*service-account*.json
+*-credentials.json
+play-*.json
+.claude/settings.local.json
