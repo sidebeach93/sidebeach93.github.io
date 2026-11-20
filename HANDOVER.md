@@ -13,5 +13,3 @@ Work is autosaved to GitHub after each response. Before stopping, update the cur
 ## Next
 
 Add privacy pages here for future apps (EverWeek and others) the same way, instead of Notion.
-
-_Autosave test 2026-11-20._
